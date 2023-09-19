@@ -1,8 +1,14 @@
 {
-    "admin":
-    [
-        { "username":"admin", "lastName":"123456" },
-        { "username":"admin1", "lastName":"123456" },
-        { "username":"admin2", "lastName":"123456" }
-    ]
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin1",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "admin2",
+      "password": "123456"
+    }
+  ]
 }
