@@ -1,0 +1,8 @@
+{
+    "admin":
+    [
+        { "username":"admin", "lastName":"123456" },
+        { "username":"admin1", "lastName":"123456" },
+        { "username":"admin2", "lastName":"123456" }
+    ]
+}
